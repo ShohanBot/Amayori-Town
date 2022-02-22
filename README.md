@@ -8,7 +8,6 @@
 <img src="https://media.discordapp.net/attachments/913720353983975455/943774006975279124/standard.gif?style=banner2" alt="Amayori's Town"/>
 
 
-<meta name="google-site-verification" content="4nJJRYA8UBSYTVFLms_Hf2Neb0BSmZ6xt3dItdfZrhY" />
 
 
 # About Us
